@@ -58,5 +58,7 @@
 ## Resources:
 
 [1] Chipwhisperer-Lite python APIs: <https://chipwhisperer.readthedocs.io/en/latest/api.html#chipwhisperer.scopes.OpenADC.clock>
+
 [2] ChipWhisperer-Lite Documentations : <https://chipwhisperer.readthedocs.io/en/latest/index.html>
+
 [3] Vcc glitch attck using ChipWhisperer-Lite : <https://chipwhisperer.readthedocs.io/en/latest/tutorials/fault_2-openadc-cwlitearm.html#tutorial-fault-2-openadc-cwlitearm>
